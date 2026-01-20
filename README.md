@@ -1,3 +1,17 @@
+## 🖼️ Screenshot
+<p align="center">
+  <img src="assets/screenshot1.png" width="30%" />
+  <img src="assets/screenshot2.png" width="30%" />
+  <img src="assets/screenshot3.png" width="30%" />
+  <img src="assets/screenshot4.png" width="30%" />
+  <img src="assets/screenshot5.png" width="30%" />
+  <img src="assets/screenshot6.png" width="30%" />
+  <img src="assets/screenshot7.png" width="30%" />
+</p>
+---
+
+
+
 # 🐶 Fun Random Dog App (Flutter)
 
 A fun and interactive Flutter application that displays random dog images using an external API.
@@ -21,11 +35,6 @@ This app is built as part of an assignment to explore and creatively use Flutter
 
 ## 🌐 API Used
 https://dog.ceo/api/breeds/image/random
-
----
-
-## 🖼️ Screenshot
-![App Screenshot](screenshots/dog_app.png)
 
 ---
 
