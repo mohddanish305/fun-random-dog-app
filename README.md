@@ -1,16 +1,38 @@
-# assignment_4
+# 🐶 Fun Random Dog App (Flutter)
 
-A new Flutter project.
+A fun and interactive Flutter application that displays random dog images using an external API.
+This app is built as part of an assignment to explore and creatively use Flutter packages from pub.dev.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Fetches random dog images from the internet
+- Pull-to-refresh to load a new image
+- Like / Unlike feature with heart icon
+- Clean and attractive UI
+- Loading indicator while fetching images
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Packages Used
+- http — for fetching data from API
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🌐 API Used
+https://dog.ceo/api/breeds/image/random
+
+---
+
+## 🖼️ Screenshot
+![App Screenshot](screenshots/dog_app.png)
+
+---
+
+## 👨‍🎓 Assignment Objective
+To explore Flutter packages by building a fun and interactive mini application.
+
+---
+
+## ✍️ Author
+Mohd Danish
